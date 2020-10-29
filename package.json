@@ -1,5 +1,5 @@
 {
-  "name": "react-npm-module",
+  "name": "react-npm-module-nav",
   "version": "1.0.0",
   "description": "Demo React Npm Module",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "webpack --watch",
-    "build": "webpack",
+    "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Navdeep Singh",
